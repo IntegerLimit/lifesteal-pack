@@ -1,0 +1,14 @@
+name = "Advancement Plaques [Forge]"
+filename = "AdvancementPlaques-1.19.4-1.4.9.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "c878082330a2aace18eb4396045fd60db62bda08"
+
+[update]
+[update.curseforge]
+file-id = 4487869
+project-id = 499826
